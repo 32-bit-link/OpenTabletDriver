@@ -6,11 +6,11 @@
 
 OpenTabletDriver — кроссплатформенный драйвер с открытым исходным кодом для графических планшетов. Целью проекта является поддержка максимального числа устройств и платформ, а также создание простого и удобного интерфейса для настройки драйвера.
 
-<p align="middle">
-  <img src="https://i.imgur.com/XDYf62e.png" width="410" align="middle"/>
+<div align="middle">
+  <img src="/.github/ASSETS/UX-GNOME.png" width="410" align="middle"/>
   <img src="https://i.imgur.com/jBW8NpU.png" width="410" align="middle"/>
   <img src="https://i.imgur.com/ZLCy6wz.png" width="410" align="middle"/>
-</p>
+</div>
 
 # Поддерживаемые планшеты
 

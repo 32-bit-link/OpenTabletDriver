@@ -6,11 +6,11 @@
 
 OpenTabletDriver는 관리자 권한 없이 여러 플랫폼에서 작동하는 오픈 소스 타블렛 드라이버입니다. OpenTabletDriver는 쉽게 사용 가능한 유저 인터페이스를 제공함과 동시에 가능한 한 여러 플랫폼에서 무리 없이 작동하도록 하는 것을 목표로 하고 있습니다.
 
-<p align="middle">
-  <img src="https://i.imgur.com/XDYf62e.png" width="410" align="middle"/>
+<div align="middle">
+  <img src="/.github/ASSETS/UX-GNOME.png" width="410" align="middle"/>
   <img src="https://i.imgur.com/jBW8NpU.png" width="410" align="middle"/>
   <img src="https://i.imgur.com/ZLCy6wz.png" width="410" align="middle"/>
-</p>
+</div>
 
 # 지원하는 타블렛
 

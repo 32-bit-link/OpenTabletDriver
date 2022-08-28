@@ -6,11 +6,11 @@
 
 OpenTabletDriver是一个开源的，跨平台的数位板驱动。其目标是在拥有直观的可自定义的界面的同时能跨平台并兼容尽可能多的设备。
 
-<p align="middle">
-  <img src="https://i.imgur.com/XDYf62e.png" width="410" align="middle"/>
+<div align="middle">
+  <img src="/.github/ASSETS/UX-GNOME.png" width="410" align="middle"/>
   <img src="https://i.imgur.com/jBW8NpU.png" width="410" align="middle"/>
   <img src="https://i.imgur.com/ZLCy6wz.png" width="410" align="middle"/>
-</p>
+</div>
 
 # 支持的数位板
 
